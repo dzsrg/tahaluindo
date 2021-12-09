@@ -8,9 +8,9 @@ You can click the Preview link to take a look at your changes.
 
 <p align='center'> I'd like to do project that has relation to anime. :ghost: </p>
 <p align='center'>
-   <a href="https://twitter.com/lulzghost"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/cyber_mrlinkerrorsystemoffical"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://www.facebook.com/ciciyber.squadindo.7"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/facebook.png?raw=true"></a>
+   <a href="https://www.facebook.com/ciciyber.squadindo.7"><img height="100" src="https://raw.githubusercontent.com/lowlighter/lowlighter/master/metrics.plugin.reactions.svg"></a>
+   <a href="https://www.facebook.com/ciciyber.squadindo.7"><img height="150" src="https://raw.githubusercontent.com/lowlighter/lowlighter/b66c3b4d14e4f47e334b068f1e0f477b7d888b20/metrics.plugin.achievements.compact.svg"></a>
+
 </P>
 
 :page_with_curl: I'm currently learning:

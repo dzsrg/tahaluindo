@@ -2,11 +2,7 @@
 tahaluindo/tahaluindo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![LOLI PROTECTOR](https://github.com/TobyG74/TobyG74/blob/main/Background.jpg)](https://github.com/TobyG74m)
-
-___
-
-<p align='center'><a href="https://instagram.com/"><img height="200" src="https://github.com/TobyG74/TobyG74/blob/main/profile.jpg?raw=true"></a>&nbsp;&nbsp;</p>
+[![LOLI PROTECTOR](https://pbs.twimg.com/profile_images/1247399514304139266/0647gPKA_400x400.jpg)](https://github.com/tahaluindo)
 
 <h1  align='center'> Hi there 👋 </h1>
 

@@ -29,17 +29,14 @@ ___
 ---
 
 ## Start
-<a href="https://github.com/wempy24"><img src="https://github-readme-stats.vercel.app/api?username=wempy24&show_icons=true&theme=radical"></a>
-<a href="https://github.com/wempy24"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wempy24&theme=highcontrast&layout=compact"></a>
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=wempy24&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_public=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wempy24&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="wempy24"/> </p>
+<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=tahaluindo&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_public=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaluindo&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="root"/> </p>
 
 ---
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wempy24">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahaluindo">
 </p>
 <!--
 -->

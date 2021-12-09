@@ -14,20 +14,16 @@ You can click the Preview link to take a look at your changes.
    <a href="https://www.facebook.com/ciciyber.squadindo.7"><img height="150" src="https://raw.githubusercontent.com/lowlighter/lowlighter/b66c3b4d14e4f47e334b068f1e0f477b7d888b20/metrics.plugin.achievements.compact.svg"></a>
 </P>
 <p align='center'>
-   <a href="https://www.facebook.com/ciciyber.squadindo.7"><img height="100" src="https://raw.githubusercontent.com/tahaluindo/tahaluindo/64478fa6dc44f9aa505ca49d384375946107db89/speed.svg"></a>
+   <a href="https://www.facebook.com/ciciyber.squadindo.7"><img height="100" src="https://raw.githubusercontent.com/tahaluindo/tahaluindo/64478fa6dc44f9aa505ca49d384375946107db89/speed.svg"></a></p>
+<p align='center'>
 :page_with_curl: I'm currently learning:
 - Python
 - PHP
 - HTML
 - JAVA
 - Javascript
-
+</p>
 :star: Here are some projects that I'm working on:
-
-### About Me ⚠️
-___
-
----
 
 ## Start
 <!--START_SECTION:waka-->

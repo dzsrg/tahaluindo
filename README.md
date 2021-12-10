@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <p align='center'>
 <a href="https://www.github.com/koleksibot"><img height="200" src="https://raw.githubusercontent.com/tahaluindo/tahaluindo/main/root.svg"></a>
 <p align='center'>  I'm TahaluIndo (21 y.o) ! :sunglasses: </p>
-
+<img width="800px" src="https://user-images.githubusercontent.com/116461/76165260-c6c00500-6112-11ea-9cda-0a6cb9b72e8f.gif" />
 <p align='center'> I'd like to do project that has relation to anime. :ghost: </p>
 <p align='center'>
    <a href="https://www.facebook.com/ciciyber.squadindo.7"><img height="100" src="https://raw.githubusercontent.com/lowlighter/lowlighter/master/metrics.plugin.reactions.svg"></a>

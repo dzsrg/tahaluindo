@@ -4,6 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1  align='center'> Hi there 👋 </h1>
+<a href="https://github.com/vuejs/vue/graphs/contributors"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
 <p align='center'>
 <a href="https://www.github.com/koleksibot"><img height="200" src="https://raw.githubusercontent.com/tahaluindo/tahaluindo/main/root.svg"></a>
 <p align='center'>  I'm TahaluIndo (21 y.o) ! :sunglasses: </p>

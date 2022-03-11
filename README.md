@@ -10,10 +10,15 @@ You can click the Preview link to take a look at your changes.
 <p align='center'>  I'm TahaluIndo (21 y.o) ! :sunglasses: </p>
 <img width="800px" src="https://raw.githubusercontent.com/tahaluindo/tahaluindo/main/Black%20Purple%20and%20Cyan%20Neon%20Noir%20%20Vaporwave%20Sports%20YouTube%20Outro.gif" />
 <p align='center'> I'd like to do project that has relation to anime. :ghost: </p>
-<p align='center'>
-   <a href="https://www.facebook.com/ciciyber.squadindo.7"><img height="100" src="https://raw.githubusercontent.com/lowlighter/lowlighter/master/metrics.plugin.reactions.svg"></a>
-   <a href="https://www.facebook.com/ciciyber.squadindo.7"><img height="150" src="https://raw.githubusercontent.com/lowlighter/lowlighter/b66c3b4d14e4f47e334b068f1e0f477b7d888b20/metrics.plugin.achievements.compact.svg"></a>
-</P>
+</p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahaluindo&theme=monokai)
+
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tahaluindo&label=VIEWS&style=flat-square&color=orange" />
+</p>
 <p align='center'>
    <a href="https://www.facebook.com/ciciyber.squadindo.7"><img height="100" src="https://raw.githubusercontent.com/tahaluindo/tahaluindo/64478fa6dc44f9aa505ca49d384375946107db89/speed.svg"></a></p>
 <p align='center'>

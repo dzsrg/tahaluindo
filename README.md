@@ -24,6 +24,19 @@ You can click the Preview link to take a look at your changes.
 <p align='center'>
    <a href="https://www.facebook.com/ciciyber.squadindo.7"><img height="100" src="https://raw.githubusercontent.com/tahaluindo/tahaluindo/64478fa6dc44f9aa505ca49d384375946107db89/speed.svg"></a></p>
 <p align='center'>
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=tahaluindo)
+
+</details>
+
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/tahaluindo?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+
+</details> 
 :page_with_curl: I'm currently learning:
 - Python
 - PHP

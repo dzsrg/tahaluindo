@@ -3,6 +3,12 @@ tahaluindo/tahaluindo is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <details>
+    <summary>Emmmm...<b></b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/tahaluindo?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+
+</details>
+<details>
     <summary><b>CLICK HERE 😝</b></summary><br/>
 <h1  align='center'> Welcome To Tahaluindo 👻 </h1>
 <p align='center'><a href="https://api.daily.dev/get?r=Koleksibot"><img src="https://api.daily.dev/devcards/f863db015cc04215878268bea4ef43f5.png?r=82s" width="150" alt="LulzGhost-Team BOT's Dev Card"/></a></p>
@@ -14,7 +20,8 @@ You can click the Preview link to take a look at your changes.
 <img width="800px" src="https://raw.githubusercontent.com/tahaluindo/tahaluindo/main/Black%20Purple%20and%20Cyan%20Neon%20Noir%20%20Vaporwave%20Sports%20YouTube%20Outro.gif" />
 <p align='center'> I'd like to do project that has relation to anime. :ghost: </p>
 </p>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahaluindo&theme=monokai)
+
+![Jokowi](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahaluindo&theme=monokai)
 
 </p>
 </details>
@@ -28,13 +35,6 @@ You can click the Preview link to take a look at your changes.
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=tahaluindo)
-
-</details>
-
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
-
-![Metrics](https://metrics.lecoq.io/tahaluindo?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
 </details> 
 :page_with_curl: I'm currently learning:

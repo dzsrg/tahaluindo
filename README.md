@@ -4,6 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <details>
     <summary>Emmmm...<b></b></summary><br/>
+<p align='center'><a href="https://api.daily.dev/get?r=Koleksibot"><img src="https://telegra.ph/file/3f8b2987e6b010c467dd6.png?r=82s" width="150" alt="LulzGhost-Team BOT's Dev Card"/></a></p>
 
 ![Metrics](https://metrics.lecoq.io/tahaluindo?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
